@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 
-### このプロジェクトは、ReactとMaterialUIを使用して作成されたカスタムサイドバーコンポーネントです。(YOuTUBEをイメージしました)
+### このプロジェクトは、ReactとMaterialUIを使用して作成されたカスタムサイドバーコンポーネントです。(YOUTUBEをイメージしました)
 ![キャプチャ](https://github.com/Zakuro890/Sidebar-React/assets/102887065/c5f64454-e099-4cdc-b521-172d7501a77c)
 ## 概要
 
